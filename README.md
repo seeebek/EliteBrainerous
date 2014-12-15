@@ -18,6 +18,7 @@ EliteOCR is a Python script that runs segmentation and optical character recogni
 [http://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv](http://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv) 
 
 Goto opencv/build/python/2.7 folder. 
+
 Copy cv2.pyd to C:/Python27/lib/site-packages.
 
 
