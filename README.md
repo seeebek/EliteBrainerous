@@ -21,14 +21,14 @@ Goto opencv/build/python/2.7 folder.
 
 Copy cv2.pyd to C:/Python27/lib/site-packages.
 
-###### Python-Tesseract 
-
-[https://bitbucket.org/3togo/python-tesseract/downloads/](https://bitbucket.org/3togo/python-tesseract/downloads/)
-
-ONLY for locating text, and segmenting them. This isn't currently used in EliteBrainerous, but is used in EliteOCR
-
 ###### qimage2ndarray 
 
 pip install qimage2ndarray 
 
 [http://pypi.python.org/pypi/qimage2ndarray](http://pypi.python.org/pypi/qimage2ndarray)
+
+###### Python-Tesseract 
+
+[https://bitbucket.org/3togo/python-tesseract/downloads/](https://bitbucket.org/3togo/python-tesseract/downloads/)
+
+ONLY for locating text in screenshots. This isn't currently used in EliteBrainerous, but is used in EliteOCR
